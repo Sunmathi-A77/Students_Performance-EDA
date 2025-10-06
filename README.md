@@ -78,6 +78,14 @@ Ensured all numeric columns were properly formatted.
 
 Verified that there were no NaNs remaining.
 
+## 🔹 Numeric Columns Analysis
+
+Skewness: Checked for all numeric columns to identify right or left skew.
+
+Histograms: Plotted distributions of all numeric features to visualize spread and outliers.
+
+Correlation Heatmap: Visualized relationships between numeric columns to identify strong correlations.
+
 ## 🔹 Exploratory Data Analysis (EDA)
 
 Detected outliers in numeric columns using the IQR method.
@@ -202,6 +210,20 @@ Feature engineering helped create meaningful metrics like Total_Score and Attend
 Positive correlation exists between study hours and exam performance.
 
 Visualizations revealed trends, top-performing students, and attendance patterns.
+
+## 🔹 Exam Score Analysis
+
+Grouped by Access to Resources and Hours Studied.
+
+Plotted average Exam Score using a bar chart.
+
+Insights:
+
+High resource access → higher scores.
+
+Scores improve with more study hours.
+
+Low resources → lower scores even with more study hours.
 
 ## 📌 Tech Stack
 
