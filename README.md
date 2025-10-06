@@ -217,6 +217,8 @@ Grouped by Access to Resources and Hours Studied.
 
 Plotted average Exam Score using a bar chart.
 
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/16ba8e4b-e485-46eb-b26e-f23744495250" />
+
 Insights:
 
 High resource access → higher scores.
